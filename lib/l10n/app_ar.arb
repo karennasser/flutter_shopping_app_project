@@ -1,0 +1,70 @@
+{
+  "@@locale": "ar",
+
+  "appTitle": "تطبيق التسوق",
+  "welcome": "مرحباً بكم في متجرنا",
+
+  "ourProducts": "منتجاتنا",
+  "featuredProducts": "المنتجات المميزة",
+  "products": "المنتجات",
+  "hotOffers": "العروض الساخنة",
+
+  "signUp": "إنشاء حساب",
+  "signIn": "تسجيل الدخول",
+  "close": "إغلاق",
+  "ok": "موافق",
+
+  "fullName": "الاسم بالكامل",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+
+  "accountCreated": "تم إنشاء الحساب بنجاح",
+  "accountSignedIn": "تم تسجيل الدخول بنجاح",
+
+  "pleaseEnterName": "من فضلك أدخل اسمك بالكامل",
+  "firstLetterUppercase": "يجب أن يكون الحرف الأول كبيراً",
+
+  "pleaseEnterEmail": "من فضلك أدخل البريد الإلكتروني",
+  "emailMustIncludeAt": "يجب أن يحتوي البريد الإلكتروني على @",
+
+  "pleaseEnterPassword": "من فضلك أدخل كلمة المرور",
+  "passwordMinimum": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+
+  "pleaseConfirmPassword": "من فضلك أكد كلمة المرور",
+  "passwordsNotMatch": "كلمتا المرور غير متطابقتين",
+
+  "itemAddedToCart": "تمت إضافة المنتج إلى السلة",
+
+  "dress1": "فستان 1",
+  "dress2": "فستان 2",
+  "dress3": "فستان 3",
+  "dress4": "فستان 4",
+  "dress5": "فستان 5",
+  "dress6": "فستان 6",
+
+  "pants": "بنطلون",
+
+  "tshirt1": "تيشيرت",
+  "tshirt2": "تيشيرت 2",
+
+  "shoes1": "حذاء 1",
+  "shoes2": "حذاء 2",
+  "shoes3": "حذاء 3",
+  "shoes4": "حذاء 4",
+  "shoes7": "حذاء 7",
+
+  "bag1": "شنطة 1",
+"bag2": "شنطة 2",
+"bag3": "شنطة 3",
+
+  "specialBagOffer": "عرض خاص على أحدث الحقائب لدينا!",
+  "bagDiscount": "احصل على خصومات رائعة على الحقائب المختارة.",
+  "limitedOffer": "عرض لفترة محدودة. تسوق الآن!",
+  "dressOffer": "فساتين جميلة بأسعار خاصة.",
+  "newCollection": "اكتشف مجموعة الأزياء الجديدة لدينا.",
+
+  "welcomeBack": "مرحباً بعودتك!",
+  "signInSubtitle": "سجل الدخول للمتابعة في التسوق",
+  "dontHaveAccount": "ليس لديك حساب؟"
+}

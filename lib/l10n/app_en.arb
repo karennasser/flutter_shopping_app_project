@@ -1,0 +1,68 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Shopping App",
+  "welcome": "Welcome to Our Shop",
+
+  "ourProducts": "Our Products",
+  "featuredProducts": "Featured Products",
+  "products": "Products",
+  "hotOffers": "Hot Offers",
+
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "close": "Close",
+  "ok": "OK",
+
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+
+  "accountCreated": "Account created successfully",
+  "accountSignedIn": "Account sign-in successfully",
+
+  "pleaseEnterName": "Please enter your full name",
+  "firstLetterUppercase": "First letter must be uppercase",
+
+  "pleaseEnterEmail": "Please enter your email",
+  "emailMustIncludeAt": "Email must include @",
+
+  "pleaseEnterPassword": "Please enter your password",
+  "passwordMinimum": "Password must be at least 6 characters",
+
+  "pleaseConfirmPassword": "Please confirm your password",
+  "passwordsNotMatch": "Passwords do not match",
+
+  "itemAddedToCart": "Item added to the cart",
+
+  "dress1": "Dress 1",
+  "dress2": "Dress 2",
+  "dress3": "Dress 3",
+  "dress4": "Dress 4",
+  "dress5": "Dress 5",
+  "dress6": "Dress 6",
+  "pants": "Pants",
+  "tshirt1": "T-Shirt",
+  "tshirt2": "T-Shirt 2",
+
+  "shoes1": "Shoes 1",
+  "shoes2": "Shoes 2",
+  "shoes3": "Shoes 3",
+  "shoes4": "Shoes 4",
+  "shoes7": "Shoes 7",
+
+  "bag1": "Bag 1",
+  "bag2": "Bag 2",
+  "bag3": "Bag 3",
+
+  "specialBagOffer": "Special offer on our latest bags!",
+  "bagDiscount": "Get amazing discounts on selected bags.",
+  "limitedOffer": "Limited time offer. Shop now!",
+  "dressOffer": "Beautiful dresses at special prices.",
+  "newCollection": "Discover our new fashion collection.",
+
+  "welcomeBack": "Welcome Back!",
+  "signInSubtitle": "Sign in to continue shopping",
+  "dontHaveAccount": "Don't have an account?"
+}
