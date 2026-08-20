@@ -203,9 +203,7 @@ class _ShoppingScreenState extends State<ShoppingScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // =========================
-            // FEATURED PRODUCTS
-            // =========================
+     
             Text(
               text.featuredProducts,
               style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
@@ -244,9 +242,7 @@ class _ShoppingScreenState extends State<ShoppingScreen> {
 
             const SizedBox(height: 30),
 
-            // =========================
-            // PRODUCTS
-            // =========================
+           
             Text(
               text.products,
               style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
@@ -339,9 +335,7 @@ class _ShoppingScreenState extends State<ShoppingScreen> {
 
             const SizedBox(height: 30),
 
-            // =========================
-            // HOT OFFERS
-            // =========================
+  
             Text(
               text.hotOffers,
               style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
